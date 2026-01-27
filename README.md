@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Koushil Varma
+## Hi there 👋
 <hr>
 <h1 align="center">Hi 👋, I'm Koushil Varma</h1>
 <h3 align="center">A Full Stack Developer & CSE (Honors) Student from India</h3>

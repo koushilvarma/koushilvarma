@@ -6,7 +6,7 @@
 ---
 
 ### 🙋‍♂️ About Me
-- 🎓 B.Tech CSE (Honors), 2nd Year  
+- 🎓 B.Tech CSE (Honors), 3nd Year  
 - 💻 Interested in **Full Stack Development & DevOps**
 - 🚀 Working on **Live Docs, Online Auction Portal & Stock Trading App**
 - 🏀 Basketball | 🏎️ Formula 1 | 🎧 Music

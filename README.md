@@ -38,17 +38,23 @@ Building scalable applications, automating infrastructure, and exploring modern 
 
 ---
 
-## ✈️ Aviation Corner
+---
 
-Growing up around aircraft and Indian Naval Aviation sparked my fascination with large-scale engineering systems, reliability, and mission-critical technology.
+## 🧩 What I'm Passionate About
 
-### Favorite Aircraft
+I enjoy building software that solves real-world problems and learning how large-scale systems operate behind the scenes.
 
-* ✈️ Boeing P-8I Poseidon
-* ✈️ F/A-18 Super Hornet
-* ✈️ Rafale M
-* ✈️ MiG-29K
-* ✈️ Tejas Mk1A
+My interests include:
+
+- 🚀 Full Stack Development
+- ☁️ Cloud Computing
+- 🐳 Containerization & Kubernetes
+- 🔧 CI/CD Automation
+- 📊 Monitoring & Observability
+- 🏗️ System Design
+- 🤖 Software Engineering Best Practices
+
+---
 
 ---
 

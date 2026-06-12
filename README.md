@@ -211,14 +211,6 @@ End-to-end deployment automation using GitHub, Jenkins, Docker and Kubernetes.
 📈 Grafana         ████████░░ 80%
 ```
 
----
-
-## 💭 Random Developer Quote
-
-> "First solve the problem. Then write the code."
-
----
-
 <p align="center">
   <i>Thanks for visiting my profile! Let's build something awesome together 🚀</i>
 </p>
